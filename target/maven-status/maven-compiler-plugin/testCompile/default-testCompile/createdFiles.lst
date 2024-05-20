@@ -1,0 +1,4 @@
+api/automacao/produtos/ProdutosTest.class
+api/automacao/HealthTest.class
+api/automacao/usuario/UsuarioTest.class
+api/automacao/contrato/JsonSchemaValidationTest.class

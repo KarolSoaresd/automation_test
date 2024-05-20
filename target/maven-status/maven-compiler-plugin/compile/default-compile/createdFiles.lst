@@ -1,0 +1,8 @@
+helper/usuarioAPI.class
+provider/Produtos$ProdutosBuilder.class
+provider/Produtos.class
+provider/GeradorLogin.class
+provider/Login$LoginBuilder.class
+provider/GeradorProdutos.class
+provider/Login.class
+core/UrlBase.class

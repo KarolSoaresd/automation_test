@@ -1,0 +1,33 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/object1716032402.json",
+  "title": "Root",
+  "type": "object",
+  "required": [
+    "status",
+    "method"
+  ],
+  "properties": {
+    "status": {
+      "$id": "#root/status",
+      "title": "Status",
+      "type": "string",
+      "default": "",
+      "examples": [
+        "ok"
+      ],
+      "pattern": "^.*$"
+    },
+    "method": {
+      "$id": "#root/method",
+      "title": "Method",
+      "type": "string",
+      "default": "",
+      "examples": [
+        "GET"
+      ],
+      "pattern": "^.*$"
+    }
+  }
+}
